@@ -115,3 +115,12 @@
     display: flex;
 
 }
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    color: #f0f0f0; /* Optional background color */
+    color: #333; /* Optional text color */
+    margin-bottom: 0.1rem;
+    /* No absolute/fixed positioning, so it stays at the bottom of the wrapper */
+}
